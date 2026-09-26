@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - sofle_hybrid_rgb_rev5
+      - test-right-central
   workflow_dispatch:
 
 permissions:
