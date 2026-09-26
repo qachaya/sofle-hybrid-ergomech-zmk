@@ -1,7 +1,7 @@
 # Copyright (c) 2020 Ryan Cross
 # SPDX-License-Identifier: MIT
 
-if SHIELD_SOFLE_ERGOMECH_LEFT
+if SHIELD_SOFLE_ERGOMECH_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Ergomech Sofle"
